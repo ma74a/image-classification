@@ -40,11 +40,11 @@ The dataset should be organized in the following format:
 ```
 car_bike_dataset/
     train/
-        class1/
-        class2/
+        car/
+        bike/
     test/
-        class1/
-        class2/
+        car/
+        bike/
 ```
 
 ### Running the Project
