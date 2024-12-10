@@ -31,7 +31,7 @@ This project implements a Convolutional Neural Network (CNN) in PyTorch for bina
 
 Install dependencies with:
 ```bash
-pip install torch torchvision numpy matplotlib tqdm
+pip3 install torch torchvision numpy matplotlib tqdm
 ```
 
 ## Usage
