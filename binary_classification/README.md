@@ -51,7 +51,7 @@ car_bike_dataset/
 1. Set the `data_dir` variable in the script to point to the dataset directory.
 2. Run the script:
    ```bash
-   python main.py
+   python3 main.py
    ```
 3. The script trains the model for 5 epochs (default) and evaluates it on the test dataset.
 
